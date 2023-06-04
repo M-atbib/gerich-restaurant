@@ -13,7 +13,7 @@ const AboutUs = () => (
 
     <div className="app__aboutus-content flex__center">
       <div className="app__aboutus-content_about">
-        <h1 className="headtext__cormorant">About Us</h1>
+        <h1 className="headtext__cormorant">A propos de nous</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
         <p className="p__opensans">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
